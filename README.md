@@ -1,3 +1,8 @@
+Extra Credit Project
+
+![alt text](img/ray.png)
+
+
 
 Window size: 		
 	Width = 800		
